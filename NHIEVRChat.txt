@@ -1,100 +1,248 @@
-forgot to mute and said something embarrassing
-been raided by a huge group in a world
-created or commissioned a custom avatar
-avatar glitched into a horrifying shape
-roleplayed a character for more than eight hours straight
-hosted a VR party with more than twenty people
-fell through the world floor because of an avatar collider bug
-been mistaken for a bot or NPC
-used a voice mod to impersonate someone else
-met someone in VRChat and then met IRL
-accidentally revealed my real name or city
-gotten banned from a popular world
-built a tiny world or scene and released it publicly
-been in a virtual wedding or ceremony
-been asked for my pronouns in a weirdly serious way
-been gifted an expensive avatar by a stranger
-discovered a secret easter egg hidden in a world
-used VRChat to procrastinate on school or work
-been confused with another user who has the same avatar
-traded or sold avatar assets privately
-stayed in VRChat all night because I couldn't log off
-performed for others using in-world animation tools
-reported someone and later regretted it
-joined a photobombing spree in a chill world
-accidentally walked into a private or locked room
-hosted a trivia or game night in VR
-been stalked by someone across multiple worlds
-learned someone's real gender or age that surprised me
-changed my avatar mid-session to troll people
-crashed a world by spawning too many props
-used VRChat for work or school meetings without telling others
-created a meme world that went viral
-got griefed by people who intentionally push avatars
-swapped avatars with a friend as a prank
-used avatar lip-sync to make people laugh
-been part of a flashmob dance in a public world
-joined a livestream and forgot I was live
-negotiated avatar price with a creator
-fell for a phishing or scamming link in chat
-organized or joined a virtual fashion show
-role-swapped avatars with someone else for roleplay
-accidentally exposed my webcam or real voice
-tried to teach someone VR etiquette and failed
-tested an avatar with ridiculous hitboxes
-been surprised by a sudden in-world performance
-used a custom animation that made everyone laugh
-walked in on a private RP and pretended I didn't see
-got friend-requested by someone famous in the community
-used VRChat as therapy or emotional support
-made a friend who I never met IRL but still care about
-sold or traded an avatar skin for real money
-pretended to be AFK but was secretly eavesdropping
-joined a roleplay group and kept my character for weeks
-accidentally exposed meetup details and had to clarify
-re-created a real-life location in VRChat
-been complimented on an avatar I didn't make
-announced a meetup and barely anyone showed up
-used a scary avatar to prank newcomers
-discovered a private developer console or debug world
-been in a VR protest or political hangout
-cosplayed as a character and had people ask for pics
-hidden an easter egg inside my own avatar or world
-made an avatar that violates a world's rules and got kicked
-used VRChat to learn a friend's language
-joined a late-night philosophical deep-talk session
-been part of a griefing raid and fought back with memes
-became moderator of a world or group
-had an avatar's face texture render as someone else
-voice-acted to match an avatar's personality
-started or followed a trend that annoyed others
-accidentally linked my social media in chat
-used a controller trick to dance weirdly and confuse people
-created a meet-up that became an IRL friendship group
-hosted a karaoke night with terrible song choices
-built a trapdoor or prank in my public world
-had my avatar's hands clip through someone for comedic effect
-been asked to model an avatar for a creator
-joined a "creator-only" chat and pretended to be one
-got stuck in an infinite-loading world and panicked
-helped a newbie learn movement and emotes
-used VRChat for a birthday or surprise party
-brought a meme prop into a serious world
-learned how to optimize avatars for better performance
-got called out for using copyrighted assets in my avatar
-roleplayed as a historical figure and got oddly respectful responses
-convinced someone I was in a different time zone as a joke
-accidentally triggered a world music loop that got stuck
-swapped outfits with an avatar mid-photobooth
-reported a bug and the dev thanked me publicly
-been part of a community that made charity events
-pretended to be a vendor and sold fake items
-discovered a world that perfectly recreated a video game level
-got into a heated debate about avatar physics
-used VRChat as a place to practice a speech or performance
-streamed VRChat and forgot to change my avatar first
-recreated a meme in-world that people screenshot endlessly
-been invited to a creator beta or private test world
-used VRChat to coordinate a real-world meetup safely
-created a collectible of badges or pins in my profile
-swapped my voice pitch in a public chat to see reactions
+left my friend and told him i be right back, to erp with someone.
+publicly erp'd.
+gone to erp with someone really quick and telling people i would be right back, and never come back.
+swapped avatars only so i can look at myself.
+uploaded an avatar and accidentally crashed someone by swapping to it.
+played other games on the side as i am in VRC drinking and playing drinkin games.
+just turned off my pc and left with no warning.
+joined a private room pretending to be someone else just to see how people reacted.
+used a voice mod to catfish someone for longer than five minutes.
+reported someone out of spite when i was the one being annoying.
+spawned in and immediately left because the avatar closet was full of weird avatars.
+lied about my age in a profile to access an adult world.
+stood in the corner awkwardly for ten minutes because i forgot what to say.
+accidentally walked into an rp scene and awkwardly stayed.
+created an avatar purely to troll a friend.
+remixed someone else's avatar and didn't credit them.
+bragged about follower counts I don't actually have in VRC.
+hid from moderators in a crowd and watched the drama unfold.
+used emotes to intentionally derail a serious conversation.
+streamed my vrchat session without telling the group i was live.
+walked into a wedding world and tried to catch the bouquet.
+joined a dance circle and completely butchered the routine.
+changed my avatar mid-conversation to confuse someone.
+stole someone’s emote and used it better than them.
+invited randos into a private hangout and regretted it.
+ghosted a friend after they asked me a personal question.
+faked internet lag to avoid a confrontation.
+made a fake alt account to spy on an ex in VRChat.
+set my avatar to max physics and watched chaos happen.
+used a tiny avatar to sit on people’s heads for laughs.
+created a room with hidden traps for people who joined.
+played music so loud it triggered anti-cheat or mods.
+pretended to be famous to see how people would react.
+joined a roleplay as an npc and refused to break character.
+broke an rp scene by joking at the worst possible moment.
+lied about being a dev to get early access to a world.
+hid in the bathroom of a public world to avoid someone.
+flashed an emote repeatedly to annoy a streamer.
+took screenshots of private conversations and later regretted it.
+edited my profile bio to be scandalous for attention.
+hosted a meetup and then bailed last minute.
+used throw-away accounts to stir drama in a group chat.
+apologized publicly for something i didn’t do just to stop harassment.
+stole someone’s avatar file then claimed i made it.
+joined a tutor/explainer session and distracted everyone with memes.
+used the mic to sing badly during a calm hangout.
+turned my avatar into something embarrassing and stayed in public.
+reacted to a mod ban with childish gloating.
+left a world mid-event because i didn’t like the DJ.
+brought non-vr friends into VRChat and pretended they were new avatars.
+lied about my timezone to schedule meetups at weird hours.
+hid in avatars that look like furniture to spook people.
+made an avatar that looked exactly like a friend to confuse others.
+crashed my client by equipping too many custom accessories.
+used lip sync to fake being someone else in a voice chat.
+pretended my controller broke so i could afk without losing status.
+joined a “no politics” world and immediately brought up politics.
+sold an avatar i didn’t own on a swap platform.
+joined a group and memed so hard they asked me to leave.
+used the avatar search to stalk someone’s uploads excessively.
+created an alt to apologize to someone i’d previously offended.
+brought snacks into the real world while still talking in vr and made crunching noises on mic.
+made a private world and trapped my friend inside for a prank.
+played hide-and-seek in a crowded world and won by hiding badly.
+lied about being stuck in vr for real to get sympathy.
+used a transparent avatar to creep into private conversations.
+posted a guild recruitment link everywhere and got banned.
+set my avatar’s height to +10 feet just to tower over people.
+joined a roleplay as an npc and charged people for quests as a joke.
+left my avatar in a compromising position for screenshots.
+accidentally broadcast my desktop instead of my vr view.
+created a world called “free stuff” and pretended to be Santa.
+used the “favorite” list to stalk when someone was last online.
+downloaded a suspicious avatar that later vanished from my inventory.
+uploaded a low-poly avatar and watched people compliment my “style.”
+pretended to crash as a dramatic exit during an argument.
+left people on read in DMs for days after meeting them in world.
+made an animation to mock a friend during a public event.
+snuck into a private party with a fake invite link.
+took over world music by spamming emotes that trigger sound.
+acted like i was a dev tester to get special perks.
+joined a community just for the avatar assets and never participated.
+used the quick menu to block someone mid-conversation without explanation.
+went into a roleplay war and then rage-quit dramatically.
+spent hours customizing an avatar and then never used it again.
+exploited a world glitch to duplicate items for a laugh.
+used world portals to intentionally misdirect newcomers.
+faked being afk while actually spectating a fight.
+turned my avatar into a giant head and only used head gestures.
+created an avatar with inappropriate hitboxes and didn’t warn others.
+joined a VR meet and only communicated via gestures the whole time.
+lied about being on a quest to avoid group chores in an rp.
+used a mirror world just to check every detail of my avatar.
+abandoned a community after losing a heated dance-off.
+ran a scavenger hunt and hid the final clue forever.
+used the “invite” spam to fill a room with bots as a prank.
+set part of my avatar to invisible to create weird illusions.
+claimed I was a pro dancer to score a spot in a dance troupe.
+joined a world just to meme on the creator’s bad textures.
+pretended to be a mod to make people follow fake rules.
+hid in the world’s ceiling to watch people without being seen.
+made an avatar that plays a sound loop and left it in public.
+joined a meetup and publicly asked for free upgrades to avatars.
+turned my avatar into a literal advertisement banner for a joke.
+used the text chat to start a plot twist mid-rp.
+donned a photorealistic avatar to freak people out.
+created a world with impossible geometry just to confuse players.
+pretended to be new to VRChat for sympathy or gifts.
+used alt accounts to upvote my own avatar uploads.
+lied about having a bug to get mod attention and help.
+joined a roleplay and revealed my character was the villain unexpectedly.
+left a party when someone used an unpopular emote.
+spammed “hello” in multiple languages and left no one replied.
+took screenshots of a private rp and posted them publicly.
+edited another user's world without permission and blamed a glitch.
+hid in avatars that look like pets to be carried around.
+made an avatar that follows people around and called it my “companion.”
+used the friend system to ghost potential dates.
+joined an LFG room and then declined everyone’s invites.
+lied in a voice chat about being in the military for clout.
+pretended to be asleep in-game to avoid a boring tutorial.
+changed my display name to impersonate a friend just for laughs.
+creeped into a wedding reception world to take ring selfies.
+joined a therapy/support world and then made jokes the whole time.
+walked into an educational event and accidentally sabotaged the speaker with emotes.
+used the avatar search to download every shiny avatar I could find.
+quit mid-duel in a PvP-styled minigame because i got scared.
+acted like i was streaming while actually recording private conversations.
+made a fan avatar of a streamer and got surprised when they noticed.
+falsely reported someone for harassment just to trigger drama.
+created an alt to re-join a group that banned my main account.
+joined a mime rp and refused to use text or voice the whole session.
+lied about owning a world to score a collab with creators.
+set my mic to push-to-talk and forgot to unmute during a Q&A.
+gave someone false directions to a world as a prank.
+used the world SDK to create a trapdoor and tested it on friends.
+made an avatar that was intentionally impossible to sit with.
+trolled a DJ by requesting tracks that don't exist.
+hid in an avatar with wings and silently followed couples in love worlds.
+sold virtual badges I didn’t earn to get clout.
+lied about being a developer to access beta features.
+stole someone’s spotlight at an open mic for an awkward performance.
+joined a serious discussion and kept sending silly avatar poses.
+hosted a private event and accidentally left the room public.
+duplicated an asset and uploaded it under a different name.
+claimed I had VIP access when i was just a regular guest.
+used a tiny avatar to fit into inaccessible world spaces.
+pretended my controller glitched to justify bad behavior.
+used a face-tracking avatar to mock someone’s expressions.
+joined a protest world and then posted unrelated memes.
+said i was “just visiting” and stayed in someone’s private room for hours.
+made an avatar specifically to offend one person and then apologized halfheartedly.
+hid in the dark of a horror world to startle newcomers.
+took credit for fixing a bug that someone else reported.
+brought a real-life pet into a stream and pretended they were my avatar.
+started a conga line in a solemn memorial world.
+used a bot to send repetitive invites to strangers.
+lied about my location to arrange a meetup in an obscure timezone.
+taught someone how to mod and they used it against me later.
+joined an art gallery world and slapped crude textures on the exhibits.
+faked a server crash to dodge a boring Q&A session.
+swapped avatars mid-dance to sabotage a choreographed routine.
+claimed an avatar was “exclusive” when it was public.
+made an avatar that constantly moonwalks and used it nonstop.
+showed up to an rp as a spoiler for the main plotline.
+used the avatar uploader to intentionally lag a session for fun.
+joined a roleplay and wrote a fanfic about it afterward without asking permission.
+stole a friend’s avatar idea and presented it as my own concept.
+put an alarm sound in my avatar to prank friends during meetings.
+created a fake event with a celebrity guest and watched people show up.
+played a VR mini-game in the corner of a chill hangout.
+disabled my mic and typed everything sarcastically to watch reactions.
+joined a world with a no-phone rule and then constantly took screenshots.
+said i was leaving but stuck around in a hidden area to eavesdrop.
+purchased an avatar and realized it had an NSFW hidden layer.
+claimed a world was haunted as a joke and people believed me.
+used an oversized avatar to block someone’s camera view.
+pretended to be a character’s long-lost sibling in an rp and complicated the plot.
+joined a live VR talk and heckled the speaker with silly noises.
+created a “lost and found” room and kept all the best items.
+lied about being banned by a popular streamer to get sympathy.
+walked into a developer Q&A and asked absurd questions to derail it.
+made an avatar that looks like a server moderator and caused confusion.
+attempted a synchronized group emote and failed spectacularly.
+changed my avatar’s gender switch mid-chat to gauge reactions.
+joined a quiet meditative world and whispered song lyrics loudly.
+used the teleport system to photobomb private screenshots.
+pretended to be a new feature tester and reported fake bugs.
+liked every single post of a creator to get on their radar.
+hid in an amusement park world to jump out at people on rides.
+claimed a dance move was original when it was from a meme pack.
+joined a “no alts” room with three alt accounts anyway.
+brought up cringe backstories in wholesome roleplays for shock value.
+set my avatar to randomize every minute during a meetup.
+posted my personal discord in a public world and regretted it.
+acted like the world was lagging when it was my own internet.
+lied about having won a community contest to look important.
+made an avatar with a flashing light that triggered someone’s epilepsy.
+joined a VR fashion show wearing pajamas on purpose.
+quit a roleplay by deleting my character mid-scene.
+walked into a kids-friendly world and immediately left embarrassed.
+used a scarf accessory to create a noose gag in a risky joke.
+pretended to be a bot to avoid social expectations.
+set a world rule that everyone had to compliment my avatar.
+made a tutorial world and then intentionally misled new users.
+took screenshots of someone’s avatar and edited them into a meme without permission.
+claimed a “glitched” avatar was limited edition to sell it for favors.
+acted like i was an exhibitor in an art world and gave fake tours.
+joined a protest and then posted about it on all my socials for likes.
+hid in a world’s loading zone to ambush people as they appeared.
+used an exaggerated facial rig to mimic and mock a streamer.
+created an alt to join a private server I’d been removed from.
+played a prank where I pretended to lock the doors of a hangout world.
+told a long fake story about how i met someone famous in VRChat.
+acted like i accidentally found a secret easter egg and lied about its location.
+used multiple avatars during a single meetup to represent different “moods.”
+claimed to have maxed out an avatar when it was clearly modded by someone else.
+joined a griefing session and then immediately regretted being part of it.
+staged a fake proposal in a random world just to get screenshots.
+sneaked into a dev-only area and pretended to be a tester.
+made a world that looks empty but has hidden party rooms.
+lied about my proximity to a streamer during a meet-and-greet to seem closer.
+used an avatar with realistic mouth movement to lip-sync someone else’s voice.
+claimed an avatar was “my childhood character” as an elaborate lie.
+took screenshots of a private rp and turned them into a joke comic.
+joined an avatar-making tutorial and then copied the teacher’s exact settings.
+hid in a crowd and started a wave to see who’d follow.
+claimed to have found a rare item in a world and sold the story.
+used an alt to flirt with someone who would never speak to my main.
+told an elaborate fake backstory for my avatar and stuck to it.
+used a camera to take sneaky close-ups of avatars without permission.
+claimed i was streaming charity when i was actually just showing off.
+stalked a creator’s world hopping schedule to catch them online.
+acted like my avatar was possessed during a spooky event for laughs.
+created a “scary” asset and placed it in peaceful worlds.
+lied about owning a world’s assets to boost my reputation.
+used the emote wheel to intentionally spam messages during a solemn event.
+faked a friendship drama livestream to get views.
+joined a roleplay training session and purposefully failed every exercise.
+wore an avatar that looked like an admin and watched chaos ensue.
+hid in a closet world and whispered spoilers through proximity chat.
+claimed a bug was reproducible when it was just my own mistake.
+used someone’s voice clip in my avatar without asking.
+took part in an ERP session in a public room and regretted the attention.
+joined an ERP session via PM and then told friends about it publicly.
+whispered ERP invites during a crowded event to see who would respond.
+met someone for ERP who turned out to be a long-time friend in disguise.
+planned a quick ERP session and then pretended to “be right back” to cover it.
